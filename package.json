@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/blanditiis-optio-culpa-nemo",
-  "version": "10.30.368",
+  "version": "10.30.369",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -397,5 +397,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/blanditiis-optio-culpa-nemo/issues"
   },
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.9.2"
 }
